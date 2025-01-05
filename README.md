@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arroubi Youness</h1>
 <h3 align="center">An enthusiastic computer engineering student from Morocco</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9526ss6mbx818nca02lkhtiqfrjh14yqjv0j5lptvev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arroubi-youness" alt="arroubi-youness" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Rh management system**
