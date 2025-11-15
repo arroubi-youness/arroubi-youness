@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  
-<p align="center">
+<p align="left">
   <a href="https://younessarroubi.vercel.app/" target="_blank">
     🌐 <strong>Visit my Portfolio</strong>
   </a>
