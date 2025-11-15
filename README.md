@@ -3,7 +3,21 @@
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9526ss6mbx818nca02lkhtiqfrjh14yqjv0j5lptvev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Rh management system**
+<!-- put this in <head> once -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- the link -->
+<a href="https://younessarroubi.vercel.app/" class="portfolio-link" aria-label="Portfolio (site)">
+  <i class="fa-solid fa-laptop-code" aria-hidden="true"></i>
+  <span class="sr-only">Portfolio</span><!-- for screen-readers -->
+</a>
+
+<style>
+:root { --primaryColor: #0ea5a4; } /* adjust as needed */
+.portfolio-link { display:inline-flex; align-items:center; gap:.35rem; color:var(--primaryColor); text-decoration:none; font-weight:600; }
+.portfolio-link i { font-size:1.05rem; color:var(--primaryColor); }
+.sr-only { position:absolute; left:-9999px; top:auto; width:1px; height:1px; overflow:hidden; }
+</style>
 
 - 📫 How to reach me **arrouyouness215@gmail.com**
 
