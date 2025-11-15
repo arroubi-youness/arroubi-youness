@@ -3,21 +3,26 @@
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9526ss6mbx818nca02lkhtiqfrjh14yqjv0j5lptvev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!-- put this in <head> once -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 
+<a href="https://younessarroubi.vercel.app/"
+   aria-label="Portfolio"
+   style="display:inline-flex;align-items:center;gap:4px;color:#0ea5a4;text-decoration:none;font-weight:600;">
+    
+  <!-- Laptop-code SVG icon -->
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+       xmlns="http://www.w3.org/2000/svg"
+       style="color:#0ea5a4;">
+    <path d="M3 5h18v10H3z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M2 17h20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <path d="M8 9h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  </svg>
 
-<!-- the link -->
-<a href="https://younessarroubi.vercel.app/" class="portfolio-link" aria-label="Portfolio (site)">
-  <i class="fa-solid fa-laptop-code" aria-hidden="true"></i>
-  <span class="sr-only">Portfolio</span><!-- for screen-readers -->
+  <!-- Hidden text for accessibility -->
+  <span style="position:absolute;left:-9999px;">Portfolio</span>
 </a>
 
-<style>
-:root { --primaryColor: #0ea5a4; } /* adjust as needed */
-.portfolio-link { display:inline-flex; align-items:center; gap:.35rem; color:var(--primaryColor); text-decoration:none; font-weight:600; }
-.portfolio-link i { font-size:1.05rem; color:var(--primaryColor); }
-.sr-only { position:absolute; left:-9999px; top:auto; width:1px; height:1px; overflow:hidden; }
-</style>
+
+ 
 
 - 📫 How to reach me **arrouyouness215@gmail.com**
 
