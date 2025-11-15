@@ -17,8 +17,7 @@
     <path d="M8 9h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
   </svg>
 
-  <!-- Hidden text for accessibility -->
-  <span style="position:absolute;left:-9999px;">Portfolio</span>
+  
 </a>
 
 
