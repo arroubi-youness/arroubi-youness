@@ -4,21 +4,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  
-<a href="https://younessarroubi.vercel.app/"
-   aria-label="Portfolio"
-   style="display:inline-flex;align-items:center;gap:4px;color:#0ea5a4;text-decoration:none;font-weight:600;">
-    
-  <!-- Laptop-code SVG icon -->
-  <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
-       xmlns="http://www.w3.org/2000/svg"
-       style="color:#0ea5a4;">
-    <path d="M3 5h18v10H3z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M2 17h20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <path d="M8 9h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-  </svg>
+<p align="center">
+  <a href="https://younessarroubi.vercel.app/" target="_blank">
+    🌐 <strong>Visit my Portfolio</strong>
+  </a>
+</p>
 
-  
-</a>
 
 
  
